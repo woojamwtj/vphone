@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AVR</string>
+    <string name="edit_message">点击按钮开始看世界</string>
+    <string name="button_send">启动</string>
+</resources>
